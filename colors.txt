@@ -2,4 +2,4 @@ Blue
 Green
 Red
 Purple
-Orange
+Clear
